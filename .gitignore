@@ -1,0 +1,34 @@
+.idea/
+node_modules/
+dist/
+*.iml
+webpack-assets.json
+webpack-stats.json
+npm-debug.log
+reports/
+*.log
+.DS_Store
+.vscode
+build/
+stubs/sessions/
+junit.xml
+report.*
+cypress/videos/
+cypress/screenshots/
+package-lock.json
+log/
+results/
+# docs
+# Production
+build
+# Generated files
+.docusaurus
+.cache-loader
+# Misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
